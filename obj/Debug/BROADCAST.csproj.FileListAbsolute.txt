@@ -1,0 +1,6 @@
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\BROADCAST\bin\Debug\BROADCAST.exe.config
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\BROADCAST\bin\Debug\BROADCAST.exe
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\BROADCAST\bin\Debug\BROADCAST.pdb
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\BROADCAST\obj\Debug\BROADCAST.csprojAssemblyReference.cache
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\BROADCAST\obj\Debug\BROADCAST.exe
+C:\Users\Kira\Desktop\POIT\4 sem\КСИС\Лабы\BROADCAST\obj\Debug\BROADCAST.pdb
